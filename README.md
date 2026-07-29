@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shammika Srivastava</h1>
 
 <h3 align="center">
-B.Tech CSE Student | Python Developer | Aspiring AI & Full Stack Developer | Open to Learning & Building Real-World Projects
+B.Tech CSE Student | Python Developer | Open to Learning & Building Real-World Projects
 </h3>
 
 <p align="center">
@@ -13,13 +13,7 @@ B.Tech CSE Student | Python Developer | Aspiring AI & Full Stack Developer | Ope
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student
-- 🌱 Passionate about AI, Full Stack Development and Problem Solving
-- 💻 Currently building projects using Python
-- 📚 Learning new technologies every day
-- 🚀 Goal: Become an AI & Full Stack Developer
-- ⚡ Fun Fact: I love turning ideas into real-world projects.
-
+👋Hi, I'm Shammika<br>🐍Primary Languages:  Python, Java<br>🎯Focus Areas: Dynamic Programming,Graphs<br>🌟Learning: SQL, numPy,Pandas<br>🍀Learning something new every day<br>
 ---
 
 <div align="center">
