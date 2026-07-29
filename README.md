@@ -1,27 +1,184 @@
-# 💫 About Me:
-👋Hi, I'm Shammika<br>🐍Primary Languages:  Python, Java<br>🎯Focus Areas: Dynamic Programming,Graphs<br>🌟Learning: SQL, numPy,Pandas<br>🍀Learning something new every day<br>
+```markdown
+<h1 align="center">Hi 👋, I'm Shammika Srivastava</h1>
 
+<h3 align="center">
+B.Tech CSE Student | Python Developer | Aspiring AI & Full Stack Developer | Open to Learning & Building Real-World Projects
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shammika-srivastava-a441b7322) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShammikaS12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shammikasrivastava@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shammika-srivastava&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Shammika-srivastava&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shammika-srivastava&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shammika-srivastava&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shammika-srivastava&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Aspiring+AI+Engineer;Full+Stack+Developer;Open+Source+Learner;Always+Learning+New+Things" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shammika-srivastava&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student
+- 🌱 Passionate about AI, Full Stack Development and Problem Solving
+- 💻 Currently building projects using Python
+- 📚 Learning new technologies every day
+- 🚀 Goal: Become an AI & Full Stack Developer
+- ⚡ Fun Fact: I love turning ideas into real-world projects.
+
+---
+
+<div align="center">
+
+<img height="230" src="https://tse3.mm.bing.net/th/id/OIP.ej-hrHAtMhHURysxgGuf_gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shammika-srivastava&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shammika-srivastava&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shammika-srivastava-a441b7322">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shammikasrivastava@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Shammika-srivastava/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shammika-srivastava&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shammika-srivastava&theme=tokyonight&no-frame=true&column=7" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shammika-srivastava&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shammika-srivastava/shammika-srivastava/output/snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shammika-srivastava&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" />
+
+</div>
+
+---
+
+## 💡 Quote of the Day
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to **⭐ star my repositories**.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=120&section=footer"/>
+
+</div>
+```
