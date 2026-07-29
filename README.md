@@ -16,14 +16,6 @@ B.Tech CSE Student | Python Developer | Open to Learning & Building Real-World P
 🐍Primary Languages:  Python, Java<br>🎯Focus Areas: Dynamic Programming,Graphs<br>🌟Learning: SQL, numPy,Pandas<br>🍀Learning something new every day<br>
 ---
 
-<div align="center">
-
-<img height="230" src="https://tse3.mm.bing.net/th/id/OIP.ej-hrHAtMhHURysxgGuf_gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"/>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
