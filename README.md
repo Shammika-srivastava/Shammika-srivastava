@@ -116,7 +116,7 @@ B.Tech CSE Student | Python Developer | Aspiring AI & Full Stack Developer | Ope
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shammika-srivastava&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Shammika-srivastava&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -146,7 +146,7 @@ B.Tech CSE Student | Python Developer | Aspiring AI & Full Stack Developer | Ope
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shammika-srivastava/shammika-srivastava/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Shammika-srivastava/Shammika-srivastava/output/snake.svg" alt="Snake animation"/>
 
 </div>
 
