@@ -6,7 +6,7 @@ B.Tech CSE Student | Python Developer | Open to Learning & Building Real-World P
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Aspiring+AI+Engineer;Full+Stack+Developer;Open+Source+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Aspiring+AI+Engineer;Open+Source+Learner;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -130,10 +130,11 @@ B.Tech CSE Student | Python Developer | Open to Learning & Building Real-World P
 ---
 
 ## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Shammika-srivastava/Shammika-srivastava/output/snake.svg)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shammika-srivastava/Shammika-srivastava/output/snake.svg" alt="Snake animation"/>
+<img src="[[https://raw.githubusercontent.com/Shammika-srivastava/Shammika-srivastava/output/snake.svg" alt="Snake animation](https://r](https://raw.githubusercontent.com/Shammika-srivastava/Shammika-srivastava/output/snake.svg)"/>
 
 </div>
 
