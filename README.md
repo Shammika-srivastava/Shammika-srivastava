@@ -13,7 +13,7 @@ B.Tech CSE Student | Python Developer | Open to Learning & Building Real-World P
 
 ## 👨‍💻 About Me
 
-👋Hi, I'm Shammika<br>🐍Primary Languages:  Python, Java<br>🎯Focus Areas: Dynamic Programming,Graphs<br>🌟Learning: SQL, numPy,Pandas<br>🍀Learning something new every day<br>
+🐍Primary Languages:  Python, Java<br>🎯Focus Areas: Dynamic Programming,Graphs<br>🌟Learning: SQL, numPy,Pandas<br>🍀Learning something new every day<br>
 ---
 
 <div align="center">
