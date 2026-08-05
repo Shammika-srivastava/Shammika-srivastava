@@ -109,15 +109,6 @@ B.Tech CSE Student | Python Developer | Open to Learning & Building Real-World P
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shammika-srivastava&theme=tokyonight&no-frame=true&column=7" />
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
