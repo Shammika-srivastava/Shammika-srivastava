@@ -122,7 +122,11 @@ B.Tech CSE Student | Python Developer | Open to Learning & Building Real-World P
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Shammika-srivastava/Shammika-srivastava/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shammika-srivastava/Shammika-srivastava/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shammika-srivastava/Shammika-srivastava/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Shammika-srivastava/Shammika-srivastava/output/github-snake-light.svg">
+</picture>
 
 ---
 
