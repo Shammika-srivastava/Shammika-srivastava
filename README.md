@@ -103,7 +103,7 @@ B.Tech CSE Student | Python Developer | Open to Learning & Building Real-World P
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Shammika-srivastava&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Shammika-srivastava&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Shammika-srivastava&theme=tokyonight&hide_border=true"/>
 
 </div>
 
