@@ -122,11 +122,7 @@ B.Tech CSE Student | Python Developer | Open to Learning & Building Real-World P
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shammika-srivastava/Shammika-srivastava/output/snake.svg" alt="Snake animation" />
-</p>
-</div>
+![Snake animation](https://raw.githubusercontent.com/Shammika-srivastava/Shammika-srivastava/output/snake.svg)
 
 ---
 
